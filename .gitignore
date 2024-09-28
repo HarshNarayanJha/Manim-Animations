@@ -151,8 +151,4 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-media/Tex
-media/images
-media/texts
-media/videos/**/partial_movie_files/*
-media/videos/*/1080p60/*
+media/
